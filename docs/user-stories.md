@@ -11,7 +11,7 @@
 - El usuario debe recibir confirmación del registro.
 
 **Prioridad:** Alta
-**Estimación:** Por definir
+**SP:** 8 
 
 ---
 
@@ -25,7 +25,7 @@
 - El usuario debe poder corregir algún dato antes de finalizar el registro.
 
 **Prioridad:** Media
-**Estimación:** Por definir
+**SP:** 5
 
 ---
 
@@ -39,7 +39,7 @@
 - El sistema debe mostrar un mensaje de error si las credenciales son incorrectas.
 
 **Prioridad:** Alta
-**Estimación:** Por definir
+**SP:** 8
 
 ---
 
@@ -53,7 +53,7 @@
 - Al cerrar sesión, el sistema debe redirigir a la pantalla de inicio.
 
 **Prioridad:** Media
-**Estimación:** Por definir
+**SP:** 3
 
 ---
 
@@ -67,7 +67,7 @@
 - El servicio publicado debe quedar visible para los clientes.
 
 **Prioridad:** Alta
-**Estimación:** Por definir
+**SP:** 5
 
 ---
 
@@ -81,7 +81,7 @@
 - El sistema debe mostrar los resultados con información básica del servicio.
 
 **Prioridad:** Alta
-**Estimación:** Por definir
+**SP:** 13
 
 ---
 
@@ -95,7 +95,7 @@
 - El sistema debe enviar la solicitud al prestador correspondiente.
 
 **Prioridad:** Alta
-**Estimación:** Por definir
+**SP:** 8
 
 ---
 
@@ -110,7 +110,7 @@
 - El cliente debe recibir notificación de la respuesta.
 
 **Prioridad:** Alta
-**Estimación:** Por definir
+**SP:** 8
 
 ---
 
@@ -124,7 +124,7 @@
 - El cliente debe poder seleccionar uno antes de confirmar el pago.
 
 **Prioridad:** Media
-**Estimación:** Por definir
+**SP:** 13
 
 ---
 
@@ -138,7 +138,7 @@
 - El sistema debe confirmar la reserva una vez procesado el pago.
 
 **Prioridad:** Alta
-**Estimación:** Por definir
+**SP:** 13
 
 ---
 
@@ -152,7 +152,7 @@
 - El monto recibido debe reflejarse en el historial del prestador.
 
 **Prioridad:** Alta
-**Estimación:** Por definir
+**SP:** 13
 
 ---
 
@@ -167,4 +167,8 @@
 - La calificación debe quedar visible en el perfil del usuario calificado.
 
 **Prioridad:** Media
-**Estimación:** Por definir
+**SP:** 5
+
+
+**TotalSpringPoints:** 102
+Ñ
