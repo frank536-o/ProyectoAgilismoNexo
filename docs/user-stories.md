@@ -170,5 +170,4 @@
 **SP:** 5
 
 
-**TotalSpringPoints:** 102
-Ñ
+**TotalStoryPoints:** 102
