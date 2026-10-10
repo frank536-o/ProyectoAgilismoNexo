@@ -1,4 +1,4 @@
-# Historias de Usuario — Nexo
+z# Historias de Usuario — Nexo
 
 ## US-01 — Registro de usuario
 **Como:** usuario
